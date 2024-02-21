@@ -1,5 +1,6 @@
 {
-    "nom": "Remi",
-    "age": 21,
-    "ville": "PERDROVILLE"
+    "processName": "TEST_PROCESS",
+    "processVersion": 1,
+    "tests": [...],
+    "deleteRequest": false
 }
